@@ -1,5 +1,6 @@
-# 👋 Hi there I’m @2bitburrito
+# 👋 Hi there I’m @2bitburrito - or Hugh Palmer to most
 - 👀 I’m interested in code, neovim, terminal environments, backend development.
+- I'm an audio engineer by day and a developer and Dad by night
 - 😢 Unfortunately all of my contributions are closed source at the moment.
 - 🧑‍💻 I'm actively developing an Electron App
 - 🌱 I’m currently learning PyQt
