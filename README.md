@@ -1,9 +1,8 @@
 # 👋 Hi there I’m @2bitburrito - Hugh Palmer 
 - 👀 I’m interested in code, neovim, terminal environments, backend development.
-- I'm an audio engineer by day and a developer and Dad by night
-- 😢 Unfortunately all of my contributions are closed source at the moment.
-- 🧑‍💻 I'm actively developing an Electron App
-- 🌱 I’m currently learning PyQt
+- I'm a developer, audio engineer and dad
+- - 🧑‍💻 I'm actively developing an audio metadata app in electron
+- 🌱 I’m currently learning Go
 - ⚡ Fun fact: an octopus has 3 hearts and one of them stops when they swim 
 
 <!---
