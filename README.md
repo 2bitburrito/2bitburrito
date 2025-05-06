@@ -1,9 +1,9 @@
-# 👋 Hi there I’m @2bitburrito - Hugh Palmer 
-- 👀 I’m interested in code, neovim, terminal environments, backend development.
-- I'm a developer, audio engineer and dad
+- 👀 I'm currently interested in terraform, nvim, 
+- I'm a developer, audio engineer and dad who is obsessed with learning
 - 🧑‍💻 I'm actively developing an audio metadata app in electron
 - 🌱 I’m currently studying Go
 - ☕ 12648430 in hexadecimal is C0FFEE
+- You can see my terminal business card [here](curl -X GET https://kknoebyz6h.execute-api.ap-southeast-2.amazonaws.com/prod/businessCard)
 
 <!---
 2bitburrito/2bitburrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
