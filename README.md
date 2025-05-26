@@ -1,4 +1,4 @@
-- 👀 I'm currently interested in nvim, sqlc and creating and validating JWT's
+- 👀 I'm currently interested in nvim, sqlc and creating / validating JWT's
 - I'm a developer, audio engineer and dad who is obsessed with learning
 - 🧑‍💻 I'm actively developing an audio metadata app in electron
 - 🌱 I’m currently studying Go
