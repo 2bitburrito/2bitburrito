@@ -1,5 +1,5 @@
 - 👀 I'm currently interested in nvim, sqlc and creating / validating JWT's
-- 🧑‍💻 I'm the solo developer of (Meta Sound Tools)[metasoundtools.com]
+- 🧑‍💻 I'm the solo developer of [metasoundtools.com](Meta Sound Tools)
 - I code every day
 - I'm a developer, audio engineer and dad who is obsessed with learning
 - 🌱 I’m currently studying Go
