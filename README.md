@@ -1,7 +1,7 @@
-- 👀 I'm currently working on:
+- 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://metasoundtools.com)
+- - 👀 I'm currently working on:
   -   writing an interpreter in go
   -   a beta program for Meta Sound Tools
-- 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://metasoundtools.com) 
 - I code every day
 - I'm a developer, audio engineer and dad who is obsessed with learning
 - ☕ 12648430 in hexadecimal is C0FFEE
