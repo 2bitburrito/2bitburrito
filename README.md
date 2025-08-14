@@ -1,4 +1,4 @@
-- 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://metasoundtools.com)
+- 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://beta.metasoundtools.com)
 - - 👀 I'm currently working on:
   -   writing an interpreter in go
   -   a beta program for Meta Sound Tools
