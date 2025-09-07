@@ -1,5 +1,5 @@
 - 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://beta.metasoundtools.com)
-- - 👀 I'm currently working on:
+- 👀 I'm currently working on:
   -   writing an interpreter in go
   -   the final release for Meta Sound Tools
   -   creating an MCP server for Xero interaction
