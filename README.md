@@ -1,7 +1,8 @@
 - 🧑‍💻 I'm the solo developer behind [Meta Sound Tools](https://beta.metasoundtools.com)
 - - 👀 I'm currently working on:
   -   writing an interpreter in go
-  -   a beta program for Meta Sound Tools
+  -   the final release for Meta Sound Tools
+  -   creating an MCP server for Xero interaction
 - I code every day
 - I'm a developer, audio engineer and dad who is obsessed with learning
 - ☕ 12648430 in hexadecimal is C0FFEE
